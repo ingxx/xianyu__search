@@ -1,0 +1,7 @@
+C:\Users\WJK\Desktop\闲鱼搜索\闲鱼搜索\bin\Debug\闲鱼搜索.exe.config
+C:\Users\WJK\Desktop\闲鱼搜索\闲鱼搜索\bin\Debug\闲鱼搜索.exe
+C:\Users\WJK\Desktop\闲鱼搜索\闲鱼搜索\bin\Debug\闲鱼搜索.pdb
+C:\Users\WJK\Desktop\闲鱼搜索\闲鱼搜索\obj\Debug\闲鱼搜索.csprojResolveAssemblyReference.cache
+C:\Users\WJK\Desktop\闲鱼搜索\闲鱼搜索\obj\Debug\闲鱼搜索.csproj.CoreCompileInputs.cache
+C:\Users\WJK\Desktop\闲鱼搜索\闲鱼搜索\obj\Debug\闲鱼搜索.exe
+C:\Users\WJK\Desktop\闲鱼搜索\闲鱼搜索\obj\Debug\闲鱼搜索.pdb
